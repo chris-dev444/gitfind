@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Header/>
       <div className="conteudo">
-          <img src={background} className="background" alt="background app"/>
+          <img src={background} className="background" alt="background app" />
           <div className='info'>
             <div>
               <input type='text' name='usuario' placeholder='@username'/>

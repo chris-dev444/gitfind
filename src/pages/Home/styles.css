@@ -1,3 +1,7 @@
+* {
+    font-family: 'Roboto';
+}
+
 .conteudo {
     position: relative;
     display: flex;
@@ -6,7 +10,7 @@
 }
 
 .background {
-    height: 100vh;
+    height: 70vh;
     position: absolute;
     left: 0;
 }
